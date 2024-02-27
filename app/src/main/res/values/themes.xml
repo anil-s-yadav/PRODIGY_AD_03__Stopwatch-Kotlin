@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StopWatchKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#202020</item>
+    </style>
+
+    <style name="Theme.StopWatchKotlin" parent="Base.Theme.StopWatchKotlin" />
+
+    <color name="my_light_primary">#FFD400</color>
+</resources>
